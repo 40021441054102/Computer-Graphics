@@ -4,3 +4,6 @@
 [submodule "Grapahics-Projects"]
 	path = Grapahics-Projects
 	url = https://github.com/40021441054102/Grapahics-Projects.git
+[submodule "Graphics-Projects"]
+	path = Graphics-Projects
+	url = https://github.com/40021441054102/Graphics-Projects.git
